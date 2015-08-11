@@ -1,5 +1,6 @@
 /*
 Copyright 2012 Kasper Skårhøj, SKAARHOJ, kasperskaarhoj@gmail.com
+(with additional contributions from Thomas Strausbaugh, thomas_strausbaugh@hotmail.com)
 
 This file is part of the Blackmagic Design Videohub Client library for Arduino
 
