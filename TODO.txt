@@ -7,3 +7,5 @@ Todo list:
 - Should the user reference inputs and outputs in a 0 indexed or 1 indexed manner?
 
 - Use dynamic array or vector to have the vidoehub object determine the size of the routing and lock arrays.
+
+- Add support for additional port types (monitoring, serial, etc.)
