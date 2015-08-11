@@ -1,7 +1,9 @@
 Todo list:
 
-Consider adding support for i/o labels - need lots of memory!
+- Consider adding support for i/o labels - need lots of memory!
 
-Consider support for Universal Videohub.
+- Consider support for Universal Videohub.
 
-Should the user reference inputs and outputs in a 0 indexed or 1 indexed manner?
+- Should the user reference inputs and outputs in a 0 indexed or 1 indexed manner?
+
+- Use dynamic array or vector to have the vidoehub object determine the size of the routing and lock arrays.
