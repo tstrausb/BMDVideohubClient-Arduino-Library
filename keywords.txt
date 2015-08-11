@@ -1,0 +1,25 @@
+####################################################
+# Datatypes (KEYWORD1)
+####################################################
+
+BMDVideohubClient	KEYWORD1
+
+####################################################
+# Methods and Functions (KEYWORD2)
+####################################################
+
+begin	KEYWORD2
+connect	KEYWORD2
+runLoop	KEYWORD2
+isConnected	KEYWORD2
+setRoute	KEYWORD2
+setLock	KEYWORD2
+forceUnlock	KEYWORD2
+getRoute	KEYWORD2
+getLock	KEYWORD2
+
+####################################################
+# Constants and enums (LITERAL1)
+####################################################
+
+serialOutput	LITERAL1
